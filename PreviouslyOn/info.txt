@@ -1,0 +1,5 @@
+Clé API : 6d400c9f525d
+mdp: 123456789b
+Clé secrète (pour OAuth 2.0) : 0f962d415f1714ca4f59ec5c5c48474e
+
+url site key et stats: https://www.betaseries.com/en/account/api/6d400c9f525d
